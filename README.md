@@ -1,2 +1,2 @@
-### GenAI Course
+### GenAI Course by Euron
 GenAI Systems Bootcamp is an end-to-end, hands-on course designed to help you master the full GenAI application stack. Learn to build intelligent systems using LangChain, LangGraph, CrewAI, n8n, and MCP while integrating LLMs with real-time tools, memory, and automation pipelines. From prompt engineering and vector search to multi-agent orchestration, cloud deployment, and CI/CD, this course covers everything needed to create production-grade GenAI applications.
